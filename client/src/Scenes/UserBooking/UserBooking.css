@@ -1,0 +1,19 @@
+.Pizza-Base
+{
+    display: flex;
+}
+
+.Pizza-Sauce
+{
+    display : flex;
+}
+
+.Pizza-Cheese
+{
+    display: flex;
+}
+
+.Pizza-Toppings
+{
+    display : flex;
+}
